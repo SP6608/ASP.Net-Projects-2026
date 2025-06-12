@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8. Factorial Division")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+132f14659da0f89a4d2b20b31cab0571992799bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51f4aa30522c4191128a8e297d121ad91c099ca4")]
 [assembly: System.Reflection.AssemblyProductAttribute("8. Factorial Division")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8. Factorial Division")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

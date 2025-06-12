@@ -13,3 +13,17 @@ D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\ArrayManipulator\obj\Debug\n
 D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.pdb
 D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.genruntimeconfig.cache
 D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\ArrayManipulator\obj\Debug\net8.0\ref\ArrayManipulator.dll
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\bin\Debug\net8.0\ArrayManipulator.exe
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\bin\Debug\net8.0\ArrayManipulator.deps.json
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\bin\Debug\net8.0\ArrayManipulator.runtimeconfig.json
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\bin\Debug\net8.0\ArrayManipulator.dll
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\bin\Debug\net8.0\ArrayManipulator.pdb
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.AssemblyInfo.cs
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.dll
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\obj\Debug\net8.0\refint\ArrayManipulator.dll
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.pdb
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.genruntimeconfig.cache
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\ArrayManipulator\obj\Debug\net8.0\ref\ArrayManipulator.dll

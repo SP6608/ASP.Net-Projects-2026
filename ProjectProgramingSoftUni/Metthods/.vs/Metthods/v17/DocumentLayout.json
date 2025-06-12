@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\00 - M4 - 2025\\M4---IT---2025-STUDENTSS\\Metthods\\",
+  "WorkspaceRootPath": "C:\\Users\\PC Home\\Desktop\\githubProjects\\ProjectProgramingSoftUni\\Metthods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31FC93FA-27D1-4B4F-A6AA-76FF4B296A22}|ArrayManipulator\\ArrayManipulator.csproj|d:\\00 - m4 - 2025\\m4---it---2025-studentss\\metthods\\arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31FC93FA-27D1-4B4F-A6AA-76FF4B296A22}|ArrayManipulator\\ArrayManipulator.csproj|c:\\users\\pc home\\desktop\\githubprojects\\projectprogramingsoftuni\\metthods\\arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31FC93FA-27D1-4B4F-A6AA-76FF4B296A22}|ArrayManipulator\\ArrayManipulator.csproj|solutionrelative:arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,42 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\00 - M4 - 2025\\M4---IT---2025-STUDENTSS\\Metthods\\ArrayManipulator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\githubProjects\\ProjectProgramingSoftUni\\Metthods\\ArrayManipulator\\Program.cs",
               "RelativeDocumentMoniker": "ArrayManipulator\\Program.cs",
-              "ToolTip": "D:\\00 - M4 - 2025\\M4---IT---2025-STUDENTSS\\Metthods\\ArrayManipulator\\Program.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\githubProjects\\ProjectProgramingSoftUni\\Metthods\\ArrayManipulator\\Program.cs",
               "RelativeToolTip": "ArrayManipulator\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T09:44:46.325Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 193,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

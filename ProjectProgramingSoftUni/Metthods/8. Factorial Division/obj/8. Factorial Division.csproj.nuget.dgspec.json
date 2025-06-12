@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\00 - M4 - 2025\\M4---IT---2025-STUDENTSS\\Metthods\\8. Factorial Division\\8. Factorial Division.csproj": {}
+    "C:\\Users\\PC Home\\Desktop\\githubProjects\\ProjectProgramingSoftUni\\Metthods\\8. Factorial Division\\8. Factorial Division.csproj": {}
   },
   "projects": {
-    "D:\\00 - M4 - 2025\\M4---IT---2025-STUDENTSS\\Metthods\\8. Factorial Division\\8. Factorial Division.csproj": {
+    "C:\\Users\\PC Home\\Desktop\\githubProjects\\ProjectProgramingSoftUni\\Metthods\\8. Factorial Division\\8. Factorial Division.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\00 - M4 - 2025\\M4---IT---2025-STUDENTSS\\Metthods\\8. Factorial Division\\8. Factorial Division.csproj",
+        "projectUniqueName": "C:\\Users\\PC Home\\Desktop\\githubProjects\\ProjectProgramingSoftUni\\Metthods\\8. Factorial Division\\8. Factorial Division.csproj",
         "projectName": "8. Factorial Division",
-        "projectPath": "D:\\00 - M4 - 2025\\M4---IT---2025-STUDENTSS\\Metthods\\8. Factorial Division\\8. Factorial Division.csproj",
-        "packagesPath": "C:\\Users\\Teachers\\.nuget\\packages\\",
-        "outputPath": "D:\\00 - M4 - 2025\\M4---IT---2025-STUDENTSS\\Metthods\\8. Factorial Division\\obj\\",
+        "projectPath": "C:\\Users\\PC Home\\Desktop\\githubProjects\\ProjectProgramingSoftUni\\Metthods\\8. Factorial Division\\8. Factorial Division.csproj",
+        "packagesPath": "C:\\Users\\PC Home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC Home\\Desktop\\githubProjects\\ProjectProgramingSoftUni\\Metthods\\8. Factorial Division\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Teachers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
