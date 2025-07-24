@@ -1,0 +1,14 @@
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\bin\Debug\net8.0\CookingMasteclas.exe
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\bin\Debug\net8.0\CookingMasteclas.deps.json
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\bin\Debug\net8.0\CookingMasteclas.runtimeconfig.json
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\bin\Debug\net8.0\CookingMasteclas.dll
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\bin\Debug\net8.0\CookingMasteclas.pdb
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\obj\Debug\net8.0\CookingMasteclas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\obj\Debug\net8.0\CookingMasteclas.AssemblyInfoInputs.cache
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\obj\Debug\net8.0\CookingMasteclas.AssemblyInfo.cs
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\obj\Debug\net8.0\CookingMasteclas.csproj.CoreCompileInputs.cache
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\obj\Debug\net8.0\CookingMasteclas.dll
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\obj\Debug\net8.0\refint\CookingMasteclas.dll
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\obj\Debug\net8.0\CookingMasteclas.pdb
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\obj\Debug\net8.0\CookingMasteclas.genruntimeconfig.cache
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\CookingMasteclas\obj\Debug\net8.0\ref\CookingMasteclas.dll

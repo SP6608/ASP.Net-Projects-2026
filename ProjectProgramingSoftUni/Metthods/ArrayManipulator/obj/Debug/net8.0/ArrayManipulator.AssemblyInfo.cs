@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayManipulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70260c6e0300365191377c4afa8bed3d8c51585e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f6b9b5f961cfe873b2603a633fc2c85cdcce0fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayManipulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayManipulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

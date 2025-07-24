@@ -1,0 +1,14 @@
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\bin\Debug\net8.0\Friend List Maintenance.exe
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\bin\Debug\net8.0\Friend List Maintenance.deps.json
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\bin\Debug\net8.0\Friend List Maintenance.runtimeconfig.json
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\bin\Debug\net8.0\Friend List Maintenance.dll
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\bin\Debug\net8.0\Friend List Maintenance.pdb
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\obj\Debug\net8.0\Friend List Maintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\obj\Debug\net8.0\Friend List Maintenance.AssemblyInfoInputs.cache
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\obj\Debug\net8.0\Friend List Maintenance.AssemblyInfo.cs
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\obj\Debug\net8.0\Friend List Maintenance.csproj.CoreCompileInputs.cache
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\obj\Debug\net8.0\Friend List Maintenance.dll
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\obj\Debug\net8.0\refint\Friend List Maintenance.dll
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\obj\Debug\net8.0\Friend List Maintenance.pdb
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\obj\Debug\net8.0\Friend List Maintenance.genruntimeconfig.cache
+C:\Users\PC Home\Desktop\githubProjects\ProjectProgramingSoftUni\Metthods\Friend List Maintenance\obj\Debug\net8.0\ref\Friend List Maintenance.dll
