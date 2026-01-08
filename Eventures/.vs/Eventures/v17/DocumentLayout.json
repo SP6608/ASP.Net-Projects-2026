@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\Eventures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|c:\\users\\pc home\\desktop\\githubprojects\\softuniprogramer\\eventures\\eventuresapp\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|solutionrelative:eventuresapp\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\Eventures\\EventuresApp\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EventuresApp\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\Eventures\\EventuresApp\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EventuresApp\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T15:00:04.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
