@@ -9,7 +9,7 @@ namespace EventuresApp.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext>options)
             :base(options) 
         { 
-           
+           this.Database.EnsureCreated();
         }
         public DbSet<Event> Events { get; set; } = null!;
     }
