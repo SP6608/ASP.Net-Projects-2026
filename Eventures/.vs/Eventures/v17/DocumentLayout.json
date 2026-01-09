@@ -62,8 +62,7 @@
               "RelativeToolTip": "EventuresApp\\Models\\EventAllViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T17:01:02.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T17:01:02.824Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "EventuresApp\\Domain\\EventAllViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T15:28:16.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T15:28:16.771Z"
             },
             {
               "$type": "Document",
@@ -137,8 +135,7 @@
               "RelativeToolTip": "EventuresApp\\Domain\\Event.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T15:17:10.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T15:17:10.798Z"
             },
             {
               "$type": "Document",
@@ -174,8 +171,7 @@
               "RelativeToolTip": "EventuresApp\\Controllers\\EventsController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T15:00:04.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T15:00:04.45Z"
             }
           ]
         }
