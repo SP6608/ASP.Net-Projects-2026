@@ -3,6 +3,7 @@ using EventuresApp.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Globalization;
+using System.Security.Claims;
 
 namespace EventuresApp.Controllers
 {
@@ -27,5 +28,38 @@ namespace EventuresApp.Controllers
                 }).ToList();
             return View(events);
         }
+        //Създавам страница Create Get Create HTTpPOS
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Create(EventCreateBindingModel bindingModel)
+        {
+            if (this.ModelState.IsValid)
+            {
+                string currentUserId = this.User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+                Event eventForDb = new Event
+                {
+                    Name = bindingModel.Name,
+                    Place = bindingModel.Place,
+                    Start = bindingModel.Start,
+                    End = bindingModel.End,
+                    TotalTickets = bindingModel.TotalTickets,
+                    PricePerTicket = bindingModel.PricePerTicket,
+                    OwnerId = currentUserId
+                };
+
+                context.Events.Add(eventForDb);
+                context.SaveChanges();
+
+                return this.RedirectToAction("All");
+            }
+
+            return this.View();
+        }
+
     }
 }
