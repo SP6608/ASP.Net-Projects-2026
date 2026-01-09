@@ -2,6 +2,7 @@
 using EventuresApp.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Globalization;
 using System.Security.Claims;
 
@@ -15,19 +16,27 @@ namespace EventuresApp.Controllers
         {
             this.context = context;
         }
+
         public IActionResult All()
         {
-            List<EventAllViewModel>events=context.Events.
-                Select(e=>new EventAllViewModel()
+            var events = context.Events
+                .Include(e => e.Owner)
+                .Select(e => new EventAllViewModel
                 {
                     Name = e.Name,
-                    Place=e.Place,
-                    Start=e.Start.ToString("dd-MM-yyyy HH:mm",CultureInfo.InvariantCulture),
-                    End=e.End.ToString("dd-MM-yyyy HH:mm", CultureInfo.InvariantCulture),
-                    Owner=e.Owner.UserName
-                }).ToList();
+                    Place = e.Place,
+                    Start = e.Start.ToString("dd-MM-yyyy HH:mm", CultureInfo.InvariantCulture),
+                    End = e.End.ToString("dd-MM-yyyy HH:mm", CultureInfo.InvariantCulture),
+                    Owner = e.Owner.UserName,
+
+                    PricePerTicket = e.PricePerTicket,
+                    TotalTickets = e.TotalTickets
+                })
+                .ToList();
+
             return View(events);
         }
+
         //Създавам страница Create Get Create HTTpPOS
         [HttpGet]
         public IActionResult Create()
@@ -49,7 +58,8 @@ namespace EventuresApp.Controllers
                     End = bindingModel.End,
                     TotalTickets = bindingModel.TotalTickets,
                     PricePerTicket = bindingModel.PricePerTicket,
-                    OwnerId = currentUserId
+                    OwnerId = currentUserId,
+                   
                 };
 
                 context.Events.Add(eventForDb);

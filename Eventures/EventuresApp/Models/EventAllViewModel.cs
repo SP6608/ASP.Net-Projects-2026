@@ -8,5 +8,8 @@
         public string End { get; set; } = string.Empty;
         public string Place { get; set; } = string.Empty;
         public string Owner { get; set; } =string.Empty;
+        public decimal PricePerTicket { get; set; }
+        public int TotalTickets { get; set; }
+
     }
 }

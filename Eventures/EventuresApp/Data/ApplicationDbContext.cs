@@ -1,4 +1,4 @@
-﻿using Eventures.App.Models;
+﻿
 using EventuresApp.Domain;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -24,9 +24,11 @@ namespace EventuresApp.Data
             builder.Entity<Event>()
                 .Property(e => e.PricePerTicket)
                 .HasPrecision(18, 2);
-           
+          
+
         }
         public DbSet<Event> Events { get; set; } = null!;
+        
     }
 
 }
