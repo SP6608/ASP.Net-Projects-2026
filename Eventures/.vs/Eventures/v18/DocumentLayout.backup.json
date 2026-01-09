@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\teachers\\Desktop\\ASP.Net-Projects-2026\\Eventures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|c:\\users\\teachers\\desktop\\asp.net-projects-2026\\eventures\\eventuresapp\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|solutionrelative:eventuresapp\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|c:\\users\\teachers\\desktop\\asp.net-projects-2026\\eventures\\eventuresapp\\domain\\eventcreatebindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|solutionrelative:eventuresapp\\domain\\eventcreatebindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|c:\\users\\teachers\\desktop\\asp.net-projects-2026\\eventures\\eventuresapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|solutionrelative:eventuresapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EventCreateBindingModel.cs",
-              "DocumentMoniker": "C:\\Users\\teachers\\Desktop\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Domain\\EventCreateBindingModel.cs",
-              "RelativeDocumentMoniker": "EventuresApp\\Domain\\EventCreateBindingModel.cs",
-              "ToolTip": "C:\\Users\\teachers\\Desktop\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Domain\\EventCreateBindingModel.cs",
-              "RelativeToolTip": "EventuresApp\\Domain\\EventCreateBindingModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:11:49.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EventsController.cs",
-              "DocumentMoniker": "C:\\Users\\teachers\\Desktop\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Controllers\\EventsController.cs",
-              "RelativeDocumentMoniker": "EventuresApp\\Controllers\\EventsController.cs",
-              "ToolTip": "C:\\Users\\teachers\\Desktop\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Controllers\\EventsController.cs",
-              "RelativeToolTip": "EventuresApp\\Controllers\\EventsController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAADwvz4AAAAAAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\teachers\\Desktop\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EventuresApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\teachers\\Desktop\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EventuresApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T13:58:48.096Z",
+              "WhenOpened": "2026-01-09T14:26:21.875Z",
               "EditorCaption": ""
             }
           ]
