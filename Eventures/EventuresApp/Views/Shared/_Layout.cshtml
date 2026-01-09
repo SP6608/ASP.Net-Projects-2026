@@ -22,23 +22,22 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
-                        @if (this.User.Identity.IsAuthenticated)
+                        @if (User.Identity.IsAuthenticated)
                         {
-                            <li class="nav-item active">
-                                <div class="dropdown show">
-                                    <a class="nav-link active dropdown-toggle" href="#"
-                                       id="dropdownMenuLink"
-                                       data-toggle="dropdown"
-                                       aria-haspopup="true"
-                                       aria-expanded="false">
-                                        Events
-                                    </a>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle text-dark"
+                                   href="#"
+                                   id="eventsDropdown"
+                                   role="button"
+                                   data-bs-toggle="dropdown"
+                                   aria-expanded="false">
+                                    Events
+                                </a>
 
-                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                        <a class="dropdown-item" href="/Events/All">All Events</a>
-                                        <a class="dropdown-item" href="/Events/Create">Create Event</a>
-                                    </div>
-                                </div>
+                                <ul class="dropdown-menu" aria-labelledby="eventsDropdown">
+                                    <li><a class="dropdown-item" asp-controller="Events" asp-action="All">All Events</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Events" asp-action="Create">Create Event</a></li>
+                                </ul>
                             </li>
                         }
 
