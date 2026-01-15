@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\asp.net-projects-2026\\asp.net-projects-2026\\eventures\\eventuresapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|solutionrelative:eventuresapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\asp.net-projects-2026\\asp.net-projects-2026\\eventures\\eventuresapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|solutionrelative:eventuresapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\asp.net-projects-2026\\asp.net-projects-2026\\eventures\\eventuresapp\\migrations\\20260115210641_createdbeventuresdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|solutionrelative:eventuresapp\\migrations\\20260115210641_createdbeventuresdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\asp.net-projects-2026\\asp.net-projects-2026\\eventures\\eventuresapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|solutionrelative:eventuresapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|solutionrelative:eventuresapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\asp.net-projects-2026\\asp.net-projects-2026\\eventures\\eventuresapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|solutionrelative:eventuresapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\asp.net-projects-2026\\asp.net-projects-2026\\eventures\\eventuresapp\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|solutionrelative:eventuresapp\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\asp.net-projects-2026\\asp.net-projects-2026\\eventures\\eventuresapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|solutionrelative:eventuresapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25B3C2C5-9166-4559-80AA-6EA9B141185E}|EventuresApp\\EventuresApp.csproj|c:\\users\\pc home\\desktop\\it_cariera_2026\\asp.net-projects-2026\\asp.net-projects-2026\\eventures\\eventuresapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,24 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "20260115210641_CreateDbEventuresDb.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Migrations\\20260115210641_CreateDbEventuresDb.cs",
+              "RelativeDocumentMoniker": "EventuresApp\\Migrations\\20260115210641_CreateDbEventuresDb.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Migrations\\20260115210641_CreateDbEventuresDb.cs",
+              "RelativeToolTip": "EventuresApp\\Migrations\\20260115210641_CreateDbEventuresDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:06:45.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Program.cs",
               "RelativeDocumentMoniker": "EventuresApp\\Program.cs",
               "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Program.cs",
               "RelativeToolTip": "EventuresApp\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T20:52:37.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "EventAllViewModel.cs",
               "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Models\\EventAllViewModel.cs",
               "RelativeDocumentMoniker": "EventuresApp\\Models\\EventAllViewModel.cs",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "All.cshtml",
               "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Views\\Events\\All.cshtml",
               "RelativeDocumentMoniker": "EventuresApp\\Views\\Events\\All.cshtml",
@@ -91,12 +108,11 @@
               "RelativeToolTip": "EventuresApp\\Views\\Events\\All.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-09T15:42:09.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T15:42:09.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EventuresApp\\Views\\Shared\\_Layout.cshtml",
@@ -108,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "EventAllViewModel.cs",
               "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Domain\\EventAllViewModel.cs",
               "RelativeDocumentMoniker": "EventuresApp\\Domain\\EventAllViewModel.cs",
@@ -120,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Views\\Events\\Create.cshtml",
               "RelativeDocumentMoniker": "EventuresApp\\Views\\Events\\Create.cshtml",
@@ -132,19 +148,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\appsettings.json",
               "RelativeDocumentMoniker": "EventuresApp\\appsettings.json",
               "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\appsettings.json",
               "RelativeToolTip": "EventuresApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-09T15:18:23.342Z"
+              "WhenOpened": "2026-01-09T15:18:23.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Domain\\Event.cs",
               "RelativeDocumentMoniker": "EventuresApp\\Domain\\Event.cs",
@@ -156,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "EventuresApp\\Models\\ErrorViewModel.cs",
@@ -168,19 +185,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EventuresApp\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "EventuresApp\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T15:16:49.213Z"
+              "WhenOpened": "2026-01-09T15:16:49.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EventsController.cs",
               "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\IT_Cariera_2026\\ASP.Net-Projects-2026\\ASP.Net-Projects-2026\\Eventures\\EventuresApp\\Controllers\\EventsController.cs",
               "RelativeDocumentMoniker": "EventuresApp\\Controllers\\EventsController.cs",

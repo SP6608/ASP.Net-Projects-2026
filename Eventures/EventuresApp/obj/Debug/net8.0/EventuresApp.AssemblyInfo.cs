@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventuresApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38fb207259997bcfee25f12d072fc6a84c3a6087")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e987e2a355fdb2a2dd956d85a268afd5ae060f71")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventuresApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventuresApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
